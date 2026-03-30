@@ -1,3 +1,23 @@
+<!-- Activity & charts (see https://github.com/ashutosh00710/github-readme-activity-graph ) -->
+<div align="center">
+
+  [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pwlmesos&theme=tokyo-night&hide_border=true&radius=8&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <p>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=pwlmesos&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwlmesos&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  </p>
+
+  <p>
+    <img height="180" src="https://github-readme-streak-stats.demolab.com/?user=pwlmesos&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  </p>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=pwlmesos&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
+
+</div>
+
+---
+
 <!-- Hero Section -->
 <div align="center">
 
@@ -65,23 +85,6 @@
 
 - **Images**  
   Image build and CI/CD pipeline definitions for container and AMI builds.
-
----
-
-## GitHub stats
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=pwlmesos&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwlmesos&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    height="160"
-  />
-</div>
 
 ---
 
