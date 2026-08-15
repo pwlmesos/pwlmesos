@@ -1,18 +1,25 @@
-<!-- Activity & charts (see https://github.com/ashutosh00710/github-readme-activity-graph ) -->
+<!-- Charts: activity graph + mirrors that actually respond (public Vercel stats often 503) -->
 <div align="center">
 
   [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pwlmesos&theme=tokyo-night&hide_border=true&radius=8&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <p>
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=pwlmesos&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwlmesos&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+    <a href="https://github.com/pwlmesos">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pwlmesos&theme=tokyonight" alt="GitHub stats" />
+    </a>
+    <a href="https://github.com/pwlmesos">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pwlmesos&theme=tokyonight" alt="Top languages" />
+    </a>
   </p>
 
   <p>
-    <img height="180" src="https://github-readme-streak-stats.demolab.com/?user=pwlmesos&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+    <a href="https://github.com/pwlmesos">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pwlmesos&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+    </a>
+    <a href="https://github.com/pwlmesos">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pwlmesos&theme=tokyonight" alt="Productive time" />
+    </a>
   </p>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=pwlmesos&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
 
 </div>
 
