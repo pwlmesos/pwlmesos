@@ -14,7 +14,7 @@
 
   <p>
     <a href="https://github.com/pwlmesos">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pwlmesos&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+      <img src="https://raw.githubusercontent.com/pwlmesos/pwlmesos/master/assets/github-streak.svg" alt="GitHub streak" />
     </a>
     <a href="https://github.com/pwlmesos">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pwlmesos&theme=tokyonight" alt="Productive time" />

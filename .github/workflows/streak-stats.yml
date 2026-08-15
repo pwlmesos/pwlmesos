@@ -1,0 +1,33 @@
+name: Update streak stats
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - .github/workflows/streak-stats.yml
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Generate streak card
+        uses: muhammad-fiaz/github-readme-streak-stats@v1.0.1
+        with:
+          USERNAME: pwlmesos
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          THEME: tokyonight
+          HIDE_BORDER: true
+          OUTPUT_PATH: assets/github-streak.svg
+
+      - name: Commit streak SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update streak stats SVG"
+          file_pattern: assets/github-streak.svg
